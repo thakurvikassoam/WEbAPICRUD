@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api\\Core-Api\\BAL\\BAL.csproj",
+      "projectUniqueName": "D:\\Api\\New folder\\BAL\\BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "D:\\Api\\Core-Api\\BAL\\BAL.csproj",
+      "projectPath": "D:\\Api\\New folder\\BAL\\BAL.csproj",
       "packagesPath": "C:\\Users\\ROYAL COMPUTER\\.nuget\\packages\\",
-      "outputPath": "D:\\Api\\Core-Api\\BAL\\obj\\",
+      "outputPath": "D:\\Api\\New folder\\BAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

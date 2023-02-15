@@ -10,3 +10,15 @@ D:\Api\Core-Api\BAL\obj\Debug\net5.0\BAL.dll
 D:\Api\Core-Api\BAL\obj\Debug\net5.0\refint\BAL.dll
 D:\Api\Core-Api\BAL\obj\Debug\net5.0\BAL.pdb
 D:\Api\Core-Api\BAL\obj\Debug\net5.0\ref\BAL.dll
+D:\Api\New folder\BAL\bin\Debug\net5.0\BAL.deps.json
+D:\Api\New folder\BAL\bin\Debug\net5.0\BAL.dll
+D:\Api\New folder\BAL\bin\Debug\net5.0\BAL.pdb
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.dll
+D:\Api\New folder\BAL\obj\Debug\net5.0\refint\BAL.dll
+D:\Api\New folder\BAL\obj\Debug\net5.0\BAL.pdb
+D:\Api\New folder\BAL\obj\Debug\net5.0\ref\BAL.dll

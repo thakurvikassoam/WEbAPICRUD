@@ -3327,11 +3327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api\\Core-Api\\Core-Api\\Core-Api.csproj",
+      "projectUniqueName": "D:\\Api\\New folder\\Core-Api\\Core-Api.csproj",
       "projectName": "Core-Api",
-      "projectPath": "D:\\Api\\Core-Api\\Core-Api\\Core-Api.csproj",
+      "projectPath": "D:\\Api\\New folder\\Core-Api\\Core-Api.csproj",
       "packagesPath": "C:\\Users\\ROYAL COMPUTER\\.nuget\\packages\\",
-      "outputPath": "D:\\Api\\Core-Api\\Core-Api\\obj\\",
+      "outputPath": "D:\\Api\\New folder\\Core-Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3353,8 +3353,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Api\\Core-Api\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Api\\Core-Api\\DAL\\DAL.csproj"
+            "D:\\Api\\New folder\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Api\\New folder\\DAL\\DAL.csproj"
             }
           }
         }
