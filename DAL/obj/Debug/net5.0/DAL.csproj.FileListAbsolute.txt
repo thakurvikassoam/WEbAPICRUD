@@ -1,0 +1,15 @@
+D:\Api\Core-Api\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Api\Core-Api\DAL\bin\Debug\net5.0\DAL.dll
+D:\Api\Core-Api\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Api\Core-Api\DAL\bin\Debug\net5.0\BAL.dll
+D:\Api\Core-Api\DAL\bin\Debug\net5.0\BAL.pdb
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.dll
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Api\Core-Api\DAL\obj\Debug\net5.0\ref\DAL.dll

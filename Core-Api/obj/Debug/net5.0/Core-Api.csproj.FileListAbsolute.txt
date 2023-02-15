@@ -1,0 +1,114 @@
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.exe
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.deps.json
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.runtimeconfig.json
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.runtimeconfig.dev.json
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.pdb
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.AssemblyReference.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.AssemblyInfoInputs.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.AssemblyInfo.cs
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.CoreCompileInputs.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\scopedcss\bundle\Core-Api.styles.css
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\Core-Api.StaticWebAssets.Manifest.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\Core-Api.StaticWebAssets.Pack.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.Core-Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.build.Core-Api.props
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Core-Api.props
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Core-Api.props
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.RazorTargetAssemblyInfo.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.CopyComplete
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\refint\Core-Api.dll
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.pdb
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.genruntimeconfig.cache
+C:\Users\ROYAL COMPUTER\OneDrive\Desktop\Api\Core-Api\Core-Api\obj\Debug\net5.0\ref\Core-Api.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\appsettings.json
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.exe
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.deps.json
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.runtimeconfig.json
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.runtimeconfig.dev.json
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Core-Api.pdb
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Azure.Core.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Azure.Identity.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\BAL.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\DAL.dll
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\DAL.pdb
+D:\Api\Core-Api\Core-Api\bin\Debug\net5.0\BAL.pdb
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.AssemblyReference.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.AssemblyInfoInputs.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.AssemblyInfo.cs
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.CoreCompileInputs.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\scopedcss\bundle\Core-Api.styles.css
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\Core-Api.StaticWebAssets.Manifest.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\Core-Api.StaticWebAssets.Pack.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.Core-Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.build.Core-Api.props
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Core-Api.props
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Core-Api.props
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.RazorTargetAssemblyInfo.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.csproj.CopyComplete
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.dll
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\refint\Core-Api.dll
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.pdb
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\Core-Api.genruntimeconfig.cache
+D:\Api\Core-Api\Core-Api\obj\Debug\net5.0\ref\Core-Api.dll
