@@ -53,10 +53,10 @@ namespace Core_Api.Controllers
             await _employee.UpdateEmployee(emp);
             return Ok("Updated Successfully");
         }
-        [HttpDelete]
-        [Route("DeleteEmployee/{Id}")]
+        [HttpPost]
+        [Route("DeleteEmployee")]
         //[HttpDelete("{id}")]
-        public JsonResult Delete(int id)
+        public JsonResult Delete(int[] id)
         {
             var result = _employee.DeleteEmployee(id);
             return new JsonResult("Deleted Successfully");

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repo
 {
-    public class EmployeeRepository:IEmployeeRepository
+    public class EmployeeRepository : IEmployeeRepository
     {
         private readonly APIDbContext _appDBContext;
         public EmployeeRepository(APIDbContext context)
@@ -36,19 +36,23 @@ namespace DAL.Repo
             await _appDBContext.SaveChangesAsync();
             return objEmployee;
         }
-        public bool DeleteEmployee(int ID)
+        public bool DeleteEmployee(int[] ID)
         {
             bool result = false;
-            var department = _appDBContext.Employees.Find(ID);
-            if (department != null)
-            {
-                _appDBContext.Entry(department).State = EntityState.Deleted;
-                _appDBContext.SaveChanges();
-                result = true;
-            }
-            else
-            {
-                result = false;
+            foreach (int item in ID)
+            { 
+                var Employee = _appDBContext.Employees.Find(item);
+
+                if (Employee != null)
+                {
+                    _appDBContext.Entry(Employee).State = EntityState.Deleted;
+                    _appDBContext.SaveChanges();
+                    result = true;
+                }
+                else
+                {
+                    result = false;
+                }
             }
             return result;
         }
